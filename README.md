@@ -4,7 +4,7 @@ This project provides a script to import playlists from Anghami to Spotify. It r
 ## Video Demo
 
 <a href="https://www.youtube.com/watch?v=9fCI6yBzstE&t=21s" target="_blank">
-  <img src="https://github.com/user-attachments/assets/14cdd1d0-a2b6-4955-a8b3-28a47e14de34" 
+  <img src="https://github.com/user-attachments/assets/91ec64ed-4f99-40a4-8c7c-6e6fa1be5b80" 
        alt="Click to watch demo video" width="500" height="400"/>
 </a>
 
