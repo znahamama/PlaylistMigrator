@@ -1,10 +1,12 @@
 # PlaylistMigrator
 This project provides a script to import playlists from Anghami to Spotify. It reads an HTML file exported from Anghami, extracts song and artist information, and creates a corresponding playlist on Spotify.
 
-## YouTube Tutorial
-Click the image below to watch my demo video on YouTube:
+## Video Demo
 
-[![Demo Video](https://img.youtube.com/vi/9fCI6yBzstE/0.jpg)](https://www.youtube.com/watch?v=9fCI6yBzstE&t=21s)
+<a href="https://www.youtube.com/watch?v=9fCI6yBzstE&t=21s" target="_blank">
+  <img src="https://github.com/user-attachments/assets/14cdd1d0-a2b6-4955-a8b3-28a47e14de34" 
+       alt="Click to watch demo video" width="500" height="400"/>
+</a>
 
 ## Requirements
 
